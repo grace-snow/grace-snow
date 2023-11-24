@@ -13,3 +13,9 @@
 - I love working with Static Site Generators and vanilla front end tech stacks
 - I enjoy Vue.js more than any other JavaScript framework
 - I care about **equality and inclusion** more than all else
+
+## Wanna see my work?
+
+As I work for an agency, most of my _code_ is private. But I can happily talk you through my contributions and their impact, in terms of code, consultancy and developing accessibility strategy at an organisational level. 
+
+Clients have included: JCB, various UK utility companies, major pension scheme providers, charities, large e-commerce sites with mobile apps...  
