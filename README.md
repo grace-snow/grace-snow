@@ -16,6 +16,6 @@
 
 ## Wanna see my work?
 
-As I work for an agency, most of my _code_ is private. But I can happily talk you through my contributions and their impact, in terms of code, consultancy and developing accessibility strategy at an organisational level. 
+As I work for an agency, most of my _code_ is private. But I can happily talk you through my contributions and their impact, in terms of code, consultancy and developing accessibility strategy at an organisational level. [Email me](mailto:gracesnowdesign@gmail.com) or contact me via [LinkedIn](https://www.linkedin.com/in/gracesnow/) if you have an opportunity you'd like me to consider.
 
 Clients have included: JCB, various UK utility companies, major pension scheme providers, charities, large e-commerce sites with mobile apps...  
