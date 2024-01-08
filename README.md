@@ -8,7 +8,8 @@
 
 ## A few facts about me...
 
-- I'm pursuing certifications with the [International Association of Accessibility Professionals (IAAP)](https://www.accessibilityassociation.org) 
+- I am a [Certified Professional in Accessibility Core Competencies](https://www.accessibilityassociation.org/s/certified-professional)
+- I'm pursuing further certifications with the [International Association of Accessibility Professionals (IAAP)](https://www.accessibilityassociation.org) 
 - I’m currently a mid-Frontend Developer and Accessibility Lead at a great agency
 - I love working with Static Site Generators and vanilla front end tech stacks
 - I enjoy Vue.js more than any other JavaScript framework
