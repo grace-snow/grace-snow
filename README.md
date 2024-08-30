@@ -3,8 +3,8 @@
 🌈 **Accessibility Specialist | Frontend Developer & Mentor | Strategist | Inclusivity Chapion**
 
 - [FED Mentor](https://fedmentor.dev) is my frontend and accessibility-focused blog site
-- [Grace Snow Design](https://gracesnowdesign.co.uk) is my portfolio site
-- Check out is [Frontend Mentor](https://www.frontendmentor.io/profile/grace-snow) to see the _wealth_ of helpful feedback I've given to junior developers
+- [Grace Snow Design](https://gracesnowdesign.co.uk) is my (now rather out-dated!) personal site
+- Check out [Frontend Mentor](https://www.frontendmentor.io/profile/grace-snow) to see the _wealth_ of helpful feedback I've given to junior developers
 
 ## A few facts about me...
 
