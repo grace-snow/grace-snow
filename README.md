@@ -19,4 +19,16 @@
 
 As I work for an agency, most of my _code_ is private. But I can happily talk you through my contributions and their impact, in terms of code, consultancy and developing accessibility strategy at an organisational level. [Email me](mailto:gracesnowdesign@gmail.com) or contact me via [LinkedIn](https://www.linkedin.com/in/gracesnow/) if you have an opportunity you'd like me to consider.
 
-Clients have included: JCB, various UK utility companies, major pension scheme providers, charities, large e-commerce sites with mobile apps...  
+Clients have included: JCB, various UK utility companies, major pension scheme providers, charities, large e-commerce sites with mobile apps...
+
+## Accessibility consultancy services
+
+Either as a private contractor or through the _excellent_ company I work for, I can provide the following services. [Contact me](mailto:gracesnowdesign@gmail.com) to discuss.
+
+- Accessibility audits against WCAG 2.2 (various levels available, depending on requirements and budget)
+- Training talks, workshops or other materials
+- Remediation work or developer specific consultancy support
+- Assistive Technology testing 
+- Document remediation 
+- Accessibility Statements 
+- Accessibility maturity models and strategy
